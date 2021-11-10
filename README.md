@@ -1,0 +1,2 @@
+# AutoKeras_Timeserise
+AutoKerasを使ったTimeseriseの実験
